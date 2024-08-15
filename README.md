@@ -3,6 +3,8 @@
 This project uses the https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games?resource=download dataset to build a database
 that is then used to create a website displaying the data within.
 
+Many thanks to Petro for this phenomenal dataset.
+
 ## Features
 
 - Converts csvs into a PostgreSQL database.

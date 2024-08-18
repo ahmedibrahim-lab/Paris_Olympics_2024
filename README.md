@@ -16,7 +16,10 @@ Many thanks to Petro for this phenomenal dataset.
 
 - Python 3.x installed on your system.
 - PostgreSQL installed on your system.
-- Pandas, sqlachemy and psycopg2 installed on your system or within your environment.
+- Pandas, sqlachemy and psycopg2 installed on your system or within your environment. They can be installed using this command:
+    ```bash
+    pip install pandas sqlachemy psycopg2
+    ```
 
 ### Creating the database.
 
